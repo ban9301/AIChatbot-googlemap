@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AIChatbot</string>
+    <string name="speech_prompt"><font size = "25">Chat with me……</font></string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+</resources>
